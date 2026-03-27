@@ -1,0 +1,8 @@
+CREATE TABLE Students (
+Rollno INT PRIMARY KEY,
+NAME VARCHAR (50);
+Age INT 
+);
+ALTER TABLE Students ADD Email VARCHAR (100);
+TRUNCATE TABLE Students;
+DROP TABLE Students;
