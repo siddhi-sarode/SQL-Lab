@@ -10,6 +10,9 @@ This repository contains my SQL practicals and practice queries as part of my DB
 * Joins (Inner, Left, Right, Full)
 * Subqueries
   
+## Mini-Project
+* Libraty Management 
+  
 ## 🛠 Tools Used
 
 * MySQL Workbench
